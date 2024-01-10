@@ -28932,7 +28932,6 @@
 /turf/open/floor/mineral/plastitanium,
 /area/station/maintenance/cult_chapel_maint)
 "fwm" = (
-/obj/machinery/vending/dorms,
 /obj/effect/turf_decal/bot,
 /obj/effect/turf_decal/tile/neutral,
 /obj/effect/turf_decal/tile/neutral{
@@ -47631,7 +47630,6 @@
 /area/station/commons/vacant_room/commissary)
 "jfj" = (
 /obj/effect/turf_decal/bot,
-/obj/machinery/vending/dorms,
 /obj/machinery/airalarm/directional/west,
 /turf/open/floor/iron/dark/side{
 	dir = 8
@@ -96022,7 +96020,6 @@
 	},
 /area/station/security/prison/safe)
 "spj" = (
-/obj/machinery/vending/dorms,
 /obj/machinery/barsign{
 	pixel_y = 32
 	},
@@ -111868,7 +111865,6 @@
 /turf/closed/wall/rust,
 /area/station/maintenance/department/security)
 "voy" = (
-/obj/machinery/vending/dorms,
 /turf/open/floor/carpet/purple,
 /area/station/common/night_club/back_stage)
 "voA" = (

@@ -36,7 +36,6 @@
 "v" = (
 /obj/structure/sign/poster/official/random/directional/north,
 /obj/effect/decal/cleanable/dirt,
-/obj/machinery/vending/dorms,
 /turf/open/floor/iron/small,
 /area/station/common/cryopods)
 "x" = (

@@ -10223,7 +10223,6 @@
 	dir = 6
 	},
 /obj/machinery/light/warm/directional/east,
-/obj/machinery/vending/dorms,
 /turf/open/floor/wood/large,
 /area/ruin/space/has_grav/skyrat/interdynefob/service/dorms)
 "UX" = (

@@ -40515,7 +40515,6 @@
 "puj" = (
 /obj/machinery/power/apc/auto_name/directional/east,
 /obj/structure/cable,
-/obj/machinery/vending/dorms,
 /turf/open/floor/carpet/black,
 /area/station/security/prison/workout)
 "pum" = (
@@ -42496,7 +42495,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/firealarm/directional/north,
-/obj/machinery/vending/dorms,
 /turf/open/floor/iron,
 /area/station/commons/dorms)
 "qhm" = (

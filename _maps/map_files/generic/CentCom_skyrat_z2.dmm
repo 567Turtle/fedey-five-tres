@@ -4688,7 +4688,6 @@
 /turf/open/floor/iron/white,
 /area/centcom/interlink)
 "bRc" = (
-/obj/machinery/vending/dorms,
 /turf/open/floor/iron/white,
 /area/centcom/interlink)
 "bTH" = (
@@ -5615,7 +5614,6 @@
 /turf/open/floor/iron/dark,
 /area/centcom/interlink)
 "egW" = (
-/obj/machinery/vending/dorms,
 /obj/effect/turf_decal/bot,
 /turf/open/floor/iron/dark,
 /area/centcom/interlink)
@@ -5696,7 +5694,6 @@
 /turf/open/floor/wood/tile,
 /area/centcom/interlink)
 "erP" = (
-/obj/machinery/vending/dorms,
 /turf/open/floor/iron/showroomfloor,
 /area/centcom/holding/cafe)
 "esx" = (
@@ -13081,7 +13078,6 @@
 /turf/open/floor/iron,
 /area/centcom/interlink)
 "xqI" = (
-/obj/machinery/vending/dorms,
 /turf/open/indestructible/hotelwood,
 /area/centcom/holding/cafe)
 "xrA" = (

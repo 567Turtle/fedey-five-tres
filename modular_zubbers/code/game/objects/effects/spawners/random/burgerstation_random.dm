@@ -204,7 +204,6 @@
 		/obj/machinery/vending/clothing = 100,
 		/obj/machinery/vending/dinnerware = 100,
 		/obj/machinery/vending/donksofttoyvendor = 50,
-		/obj/machinery/vending/dorms = 100,
 		/obj/machinery/vending/games = 50,
 		/obj/machinery/vending/hydronutrients = 50,
 		/obj/machinery/vending/hydroseeds = 100,
