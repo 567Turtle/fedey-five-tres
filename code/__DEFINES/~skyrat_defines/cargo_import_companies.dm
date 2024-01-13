@@ -9,6 +9,7 @@
 #define CARGO_COMPANY_SOL_DEFENSE (1<<7)
 #define CARGO_COMPANY_MICROSTAR (1<<8)
 #define CARGO_COMPANY_VITEZSTVI_AMMO (1<<9)
+#define CARGO_COMPANY_KELCO_EQUIPMENT (1<<10)
 
 // Company names, because the armament category and company name need to be the exact same, so use defines like this
 #define NAKAMURA_ENGINEERING_MODSUITS_NAME "Nakamura Engineering MOD Divison"
@@ -18,6 +19,7 @@
 #define DONK_CO_NAME "Donk Corporation"
 #define KAHRAMAN_INDUSTRIES_NAME "Kahraman Heavy Industries"
 #define FRONTIER_EQUIPMENT_NAME "Akhter Company Frontier Equipment"
+#define KELCO_EQUIPMENT_NAME "Gunbrokers Galactic"
 #define SOL_DEFENSE_DEFENSE_NAME "Sol Defense Imports"
 #define MICROSTAR_ENERGY_NAME "MicroStar Energy Weapon Coalition"
 #define VITEZSTVI_AMMO_NAME "Vitezstvi Ammo & Weapon Accessories"
