@@ -68,7 +68,7 @@
 	item_type = /obj/item/gun/ballistic/shotgun/riot/sol
 	cost = 900
 
-// Various smaller appliances than the deployable machines below
+// AMMO
 
 /datum/armament_entry/company_import/kelco_imports/ammo
 	subcategory = "Ammunition"
@@ -125,3 +125,45 @@
 /datum/armament_entry/company_imports/kelco_imports/ammo/magnum
 	item_type = /obj/item/ammo_box/advanced/s12gauge/buckshot
 	cost = 500
+
+// Miscellaneous
+
+/datum/armament_entry/company_import/kelco_imports/misc
+	subcategory = "Misceallaneous"
+	cost = 50
+
+/datum/armament_entry/company_import/kelco_imports/misc/colony_rations
+	item_type = /obj/item/storage/box/colonial_rations
+	cost = 50
+
+/datum/armament_entry/company_import/kelco_imports/misc/hecu_rations
+	item_type = /obj/item/storage/box/hecu_rations
+	cost = 50
+
+/datum/armament_entry/company_import/kelco_imports/misc/swissknife
+	item_type = /obj/item/spess_knife
+	cost = 75
+
+/datum/armament_entry/company_import/kelco_imports/misc/webbing
+	item_type = /obj/item/storage/belt/military
+	cost = 75
+
+/datum/armament_entry/company_import/kelco_imports/misc/expowebbing
+	item_type = /obj/item/storage/belt/military/expeditionary_corps
+	cost = 75
+
+/datum/armament_entry/company_import/kelco_imports/misc/cinwebbing
+	item_type = /obj/item/storage/belt/military/cin_surplus
+	cost = 75
+
+/datum/armament_entry/company_import/kelco_imports/misc/cinhelmet
+	item_type = /obj/item/clothing/head/helmet/cin_surplus_helmet
+	cost = 150
+
+/datum/armament_entry/company_import/kelco_imports/misc/cinpack
+	item_type = /obj/item/storage/backpack/industrial/cin_surplus
+	cost = 150
+
+/datum/armament_entry/company_import/kelco_imports/misc/cinpouch
+	item_type = /obj/item/storage/pouch/cin_medkit
+	cost = 150
