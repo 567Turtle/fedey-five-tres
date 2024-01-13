@@ -86,43 +86,43 @@
 	item_type = /obj/item/ammo_box/magazine/m45
 	cost = 200
 
-/datum/armament_entry/company_imports/kelco_imports/ammo/sakhno
+/datum/armament_entry/company_import/kelco_imports/ammo/sakhno
 	item_type = /obj/item/ammo_box/magazine/internal/boltaction
 	cost = 200
 
-/datum/armament_entry/company_imports/kelco_imports/ammo/strilka_surplus
+/datum/armament_entry/company_import/kelco_imports/ammo/strilka_surplus
 	item_type = /obj/item/storage/toolbox/ammobox/strilka310/surplus
 	cost = 100
 
-/datum/armament_entry/company_imports/kelco_imports/ammo/strilka
+/datum/armament_entry/company_import/kelco_imports/ammo/strilka
 	item_type = /obj/item/storage/toolbox/ammobox/strilka310
 	cost = 200
 
-/datum/armament_entry/company_imports/kelco_imports/ammo/mateba
+/datum/armament_entry/company_import/kelco_imports/ammo/mateba
 	item_type = /obj/item/ammo_box/a357
 	cost = 500
 
-/datum/armament_entry/company_imports/kelco_imports/ammo/defaultdan
+/datum/armament_entry/company_import/kelco_imports/ammo/defaultdan
 	item_type = /obj/item/ammo_box/c35sol
 	cost = 200
 
-/datum/armament_entry/company_imports/kelco_imports/ammo/c38
+/datum/armament_entry/company_import/kelco_imports/ammo/c38
 	item_type = /obj/item/ammo_box/c38
 	cost = 150
 
-/datum/armament_entry/company_imports/kelco_imports/ammo/c38
+/datum/armament_entry/company_import/kelco_imports/ammo/c38
 	item_type = /obj/item/ammo_box/advanced/s12gauge/bean
 	cost = 150
 
-/datum/armament_entry/company_imports/kelco_imports/ammo/slugs
+/datum/armament_entry/company_import/kelco_imports/ammo/slugs
 	item_type = /obj/item/ammo_box/advanced/s12gauge
 	cost = 200
 
-/datum/armament_entry/company_imports/kelco_imports/ammo/buckshot
+/datum/armament_entry/company_import/kelco_imports/ammo/buckshot
 	item_type = /obj/item/ammo_box/advanced/s12gauge/buckshot
 	cost = 350
 
-/datum/armament_entry/company_imports/kelco_imports/ammo/magnum
+/datum/armament_entry/company_import/kelco_imports/ammo/magnum
 	item_type = /obj/item/ammo_box/advanced/s12gauge/buckshot
 	cost = 500
 
