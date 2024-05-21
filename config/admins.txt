@@ -6,3 +6,4 @@
 
 Greasymonky = Host
 Sexmaster = Game Master
+bostonthebear = Game Master
